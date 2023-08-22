@@ -1,3 +1,3 @@
-import { ThemeSwithcer } from "./ui/ThemeSwitcher"
+import { ThemeSwithcer } from './ui/ThemeSwitcher'
 
 export { ThemeSwithcer }
